@@ -2,4 +2,4 @@
 
 Сделанно с React, разработка пошаговой формы, адаптивная верстка
 
-Демонстрация: https://psiyavush.github.io/fcc/
+Демонстрация: https://psiyavush.github.io/FCC-Cloud.ru/
